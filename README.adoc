@@ -1,7 +1,5 @@
 = Digital Curricula Project
 
-Advance-IT Digital Curriculum initiative working space
-
 This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Uinversities System
 
 == Background of this document
@@ -64,3 +62,5 @@ These potentially to be supported with a common, flexible platform to be built w
 Minimal goal: Vision and requirements. Stretch goal: Implementation.
 
 An advisory board drawn from Agile thought leaders, industry, and academia is suggested.
+
+_Note: The primary development vehicle for the collaborative work is the https://github.com/MN-ASG/digi-curr/wiki[wiki]._
