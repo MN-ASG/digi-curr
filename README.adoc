@@ -1,0 +1,48 @@
+# digi-curr
+Advance-IT Digital Curriculum initiative working space
+
+This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Uinversities System
+
+The following are excerpts from the project proposal:
+
+The outcome of this project is to improve the MNSCU IS/IT program service to the Minnesota workforce through developing instructional content (with faculty support) that better supports current industry needs. These under-served areas include:
+
+* Digital transformation and digital product management 
+* Agile software development, especially at organizational scale
+* Integrated, practical “full stack” experiential learning
+* End-to-end pipeline experience, including continuous integration and delivery (aka “DevOps”)
+* Modern systems administration tools and techniques, particularly “infrastructure as code”
+* Importance of cultural and organizational factors for high-performing Agile organizations 
+
+These outcomes will in turn promote greater workforce readiness and career acceleration for graduating MNSCU students. 
+
+The approach is to develop useful open-source material freely available to faculty, while supporting its use through defining reference curricula and developing seminar material to orient faculty to the new workforce demands. 
+There are four components to this activity: 
+
+1.	Survey and focus group research into current faculty views and understandings of Agile and workforce transformation.  Industry survey planned for MHTA; faculty survey for New Directions conference.
+2.	A reference curriculum, with mappings to typical current curricula and their learning objectives, and attention to transition/bridging problems
+3.	Initial conceptual vision for associated hands-on labs covering both “full stack” and “end to end pipeline” complexity.
+4.	A 3-hour seminar to educate faculty on current industry trends (in particular, digital, Agile, DevOps, and related topics)
+
+Reference curriculum details: 
+Develop a reference/model curriculum covering the following high-level learning objectives (suggested):
+* Theory and practice of Agile methods, including their extensions into digital product management and operations (“DevOps”)
+* Test-driven development
+* Scrum, Kanban, SAFe, and related methods
+* The question of project vs. product management
+* Techniques for scaling Agile
+* Cultural and organizational factors
+* Cloud and web-scale IT based on virtualization and open source 
+
+Laboratory:
+Objective: Support curriculum with common experience-based lab platform 
+* Useful, realistic commercial application with appropriate architecture, including persistence, caching, front end, web and mobile delivery
+* Virtual servers and composable, auto-scaling infrastructure defined per current practices as code (e.g. Chef recipes or Puppet manifests detailing nodes, software, configurations) and executable on institutional or Cloud infrastructure.
+* Version-control-based workflow
+* Load simulation and performance analytics (Cloud- and Web-scale computing demonstration)
+
+These potentially to be supported with a common, flexible platform to be built with current open source technologies, defined though modern “infrastructure as code” techniques. No fee-based licenses or hardware to be required; the collateral will be open source, downloadable and operable by instructors and assistants with appropriate skills, given suitably powered computing infrastructure (either institutional or Cloud-based). 
+
+Minimal goal: Vision and requirements. Stretch goal: Implementation.
+
+An advisory board drawn from Agile thought leaders, industry, and academia is suggested.
