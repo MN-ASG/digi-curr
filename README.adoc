@@ -4,6 +4,21 @@ Advance-IT Digital Curriculum initiative working space
 
 This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Uinversities System
 
+== Background of this document
+The Minnesota State Colleges and Universities system is the 6th-largest educational system in the United States, with an annual budget approaching $2 billion. It represents http://www.mnscu.edu/colleges/campuses.html[31 institutions based on 54 campuses], from Winona State in the southeast to Thief River Falls in the northwest.  
+
+At the http://advanceitmn.org/conference-recap-2016-new-directions-in-it-education/[2016 New Directions in IT conference], a faculty https://github.com/MN-ASG/digi-curr/wiki/Participants[working group] convened to consider the impacts of current technological trends on IT education. 
+
+In particular, working group members are aware of and interested in the following topics:
+
+* Agile software development
+* Lean IT
+* Cloud and web-scale IT
+* DevOps
+* Digital transformation
+
+There is increasing evidence that these topics are significant to employers, and call for some educational response. This document examines these trends in light of current curricula, and makes recommendations in terms of learning objectives, current courses, and programmatic initiatives. 
+
 The following are excerpts from the project proposal:
 
 The outcome of this project is to improve the MNSCU IS/IT program service to the Minnesota workforce through developing instructional content (with faculty support) that better supports current industry needs. These under-served areas include:
