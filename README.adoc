@@ -1,4 +1,5 @@
-# digi-curr
+= Digital Curricula Project
+
 Advance-IT Digital Curriculum initiative working space
 
 This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Uinversities System
@@ -26,6 +27,7 @@ There are four components to this activity:
 
 Reference curriculum details: 
 Develop a reference/model curriculum covering the following high-level learning objectives (suggested):
+
 * Theory and practice of Agile methods, including their extensions into digital product management and operations (“DevOps”)
 * Test-driven development
 * Scrum, Kanban, SAFe, and related methods
@@ -36,6 +38,7 @@ Develop a reference/model curriculum covering the following high-level learning 
 
 Laboratory:
 Objective: Support curriculum with common experience-based lab platform 
+
 * Useful, realistic commercial application with appropriate architecture, including persistence, caching, front end, web and mobile delivery
 * Virtual servers and composable, auto-scaling infrastructure defined per current practices as code (e.g. Chef recipes or Puppet manifests detailing nodes, software, configurations) and executable on institutional or Cloud infrastructure.
 * Version-control-based workflow
