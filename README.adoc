@@ -1,6 +1,6 @@
 = Digital Curricula Project
 
-This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Uinversities System
+This is a project of Advance-IT Minnesota, a Center of Excellence of the Minnesota State Colleges and Universities System
 
 == Background of this document
 The Minnesota State Colleges and Universities system is the 6th-largest educational system in the United States, with an annual budget approaching $2 billion. It represents http://www.mnscu.edu/colleges/campuses.html[31 institutions based on 54 campuses], from Winona State in the southeast to Thief River Falls in the northwest.  
